@@ -1,0 +1,14 @@
+/* Estilização texto CSS*/
+
+.Text{
+    text-align: center;
+    font-size: 19px;
+}
+.wrapper{
+    flex-direction: center;
+    align-items: center;
+}
+
+/*Estilização components */
+
+
